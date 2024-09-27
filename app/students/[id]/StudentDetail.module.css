@@ -1,0 +1,69 @@
+/* StudentDetail.module.css */
+.studentDetail {
+  padding: 2rem;
+  background-color: #f9f9f9; 
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 2rem auto;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.studentDetail:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.studentName {
+  font-size: 2.5rem;
+  color: #e67e22; 
+  margin-bottom: 1rem;
+  text-align: center;
+  border-bottom: 3px solid #bdc3c7; 
+  padding-bottom: 0.5rem;
+}
+
+.studentInfo {
+  font-size: 1.6rem;
+  color: #7f8c8d; 
+  margin: 1rem 0;
+}
+
+.absentDays {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.absent {
+  color: #e74c3c; 
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.notFound {
+  text-align: center;
+  padding: 2rem;
+  background-color: #ffffff; 
+  border: 1px solid #bdc3c7; 
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  color: #7f8c8d; 
+  font-size: 1.6rem;
+  margin-top: 2rem;
+}
+
+
+@media (max-width: 768px) {
+  .studentDetail {
+    padding: 1.5rem;
+  }
+
+  .studentName {
+    font-size: 2rem;
+  }
+
+  .studentInfo, .absent {
+    font-size: 1.4rem;
+  }
+}

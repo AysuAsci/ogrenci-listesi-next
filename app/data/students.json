@@ -1,0 +1,150 @@
+[
+  {
+    "id": "1",
+    "name": "Aysu Aşçı",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 15,
+      "daysAbsent": 5,
+      "absentDays": [
+        "2024-09-01",
+        "2024-09-03",
+        "2024-09-10"
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Doğa Savaş",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 18,
+      "daysAbsent": 2,
+      "absentDays": [
+        "2024-09-05",
+        "2024-09-12"
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "name": "Tunahan Orak",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 20,
+      "daysAbsent": 0,
+      "absentDays": []
+    }
+  },
+  {
+    "id": "4",
+    "name": "Doğukan Sarı",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 17,
+      "daysAbsent": 3,
+      "absentDays": [
+        "2024-09-02",
+        "2024-09-09"
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "name": "Berk Ucar",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 19,
+      "daysAbsent": 1,
+      "absentDays": [
+        "2024-09-07"
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "name": "Fatih Kaya",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 16,
+      "daysAbsent": 4,
+      "absentDays": [
+        "2024-09-04",
+        "2024-09-11"
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "name": "Ece Ceylan",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 18,
+      "daysAbsent": 2,
+      "absentDays": [
+        "2024-09-06"
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "name": "Ece Sema Bekdemir",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 20,
+      "daysAbsent": 0,
+      "absentDays": []
+    }
+  },
+  {
+    "id": "9",
+    "name": "Furkan Coşar",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 15,
+      "daysAbsent": 5,
+      "absentDays": [
+        "2024-09-01",
+        "2024-09-03"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "name": "Halil Yormaz",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 19,
+      "daysAbsent": 1,
+      "absentDays": [
+        "2024-09-08"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "name": "Kerem Kaçmaz",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 17,
+      "daysAbsent": 3,
+      "absentDays": [
+        "2024-09-02",
+        "2024-09-10"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "name": "Elif Keskin",
+    "class": "Frontend Class",
+    "attendance": {
+      "daysPresent": 18,
+      "daysAbsent": 2,
+      "absentDays": [
+        "2024-09-04",
+        "2024-09-12"
+      ]
+    }
+  }
+]
